@@ -19,5 +19,8 @@ public static void main(String[] args) {
 public static void Ferguson(){
   System.out.println("Nick Ferguson!");
 }
-
+public static void King() {
+    System.out.println("Why is this not in C#");
+    System.out.println("C# be so much easier to write than java");
+    }
 }
