@@ -23,4 +23,7 @@ public static void King() {
     System.out.println("Why is this not in C#");
     System.out.println("C# be so much easier to write than java");
     }
+public static void Cousins() {
+    System.out.println("David Cousins");
+}
 }
